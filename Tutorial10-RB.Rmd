@@ -1,0 +1,19 @@
+---
+title: "Week10-RB"
+author: "Rohan Baghel"
+date: '2022-05-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+weather_data_GER_2016 <- read_csv("data/weather_data_GER_2016.csv")
+```
+
+

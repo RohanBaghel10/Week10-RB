@@ -13,7 +13,7 @@ library(ggplot2)
 ```
 
 ```{r}
-weather_data_GER_2016 <- read_csv("data/weather_data_GER_2016.csv")
+
 ```
 
 
